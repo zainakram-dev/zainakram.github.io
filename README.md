@@ -1,2 +1,2 @@
 # zainakram.github.io
-Personal website to showcase my projects and skills
+A modern portfolio website built with Next.js and Tailwind CSS to showcase my projects, technical skills, and personal journey as a web developer.
